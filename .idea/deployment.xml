@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="jiezha@alvis1.c3se.chalmers.se:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="jiezha@alvis1.c3se.chalmers.se:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mimer/NOBACKUP/groups/alvis_cvl/jie/DATr-code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jiezha@alvis1.c3se.chalmers.se:22 password (44)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mimer/NOBACKUP/groups/alvis_cvl/jie/codes/DATr-code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jiezha@alvis1.c3se.chalmers.se:22 password (45)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mimer/NOBACKUP/groups/alvis_cvl/jie/codes/DATr-code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jiezha@alvis1.c3se.chalmers.se:22 password (46)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mimer/NOBACKUP/groups/alvis_cvl/jie/codes/DATr-code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jiezha@alvis1.c3se.chalmers.se:22 password (47)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mimer/NOBACKUP/groups/alvis_cvl/jie/codes/DATr-code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jiezha@alvis1.c3se.chalmers.se:22 password (48)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mimer/NOBACKUP/groups/alvis_cvl/jie/codes/DATr-code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
