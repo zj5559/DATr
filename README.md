@@ -1,5 +1,5 @@
 # DATr
-##[Paper](https://arxiv.org/pdf/2309.08264.pdf)
+## [Paper](https://arxiv.org/pdf/2309.08264.pdf)
 PyTorch implementation of "Leveraging the Power of Data Augmentation for Transformer-based Tracking" (WACV2024).
 
 ## Introduction
