@@ -1,7 +1,7 @@
 # DATr 
 PyTorch implementation of "Leveraging the Power of Data Augmentation for Transformer-based Tracking" (WACV2024).
 
-[Paper](https://arxiv.org/pdf/2309.08264.pdf)
+Please find the paper [here](https://arxiv.org/pdf/2309.08264.pdf)
 
 ## Introduction
 In this paper, we perform systematic experiments to explore the impact of General Data Augmentations (GDA) on transformer trackers, including the pure transformer tracker and the hybrid CNN-Transformer tracker. Results below show GDAs have limited effects on SOTA trackers.
