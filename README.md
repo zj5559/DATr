@@ -21,4 +21,4 @@ Please see eval.sh to find the commands for training and testing.
 Models and results can be found [here](https://drive.google.com/drive/folders/19-jBvfFVZxPcvZmy6ZXwtyW6NCnQ6bjY?usp=share_link).
 
 ## Acknowledgments
-Our work is based on three different Transformer trackers, i.e., [OSTrack](https://github.com/botaoye/OSTrack), [MixFormer](https://github.com/MCG-NJU/MixFormer), and [STARK](https://github.com/MasterBin-IIAU/Stark-1). Thanks for these concise and effective SOT frameworks.
+Our work is mainly implemented on three different Transformer trackers, i.e., [OSTrack](https://github.com/botaoye/OSTrack), [MixFormer](https://github.com/MCG-NJU/MixFormer), and [STARK](https://github.com/MasterBin-IIAU/Stark-1). Thanks for these concise and effective SOT frameworks.
